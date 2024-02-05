@@ -1,0 +1,10 @@
+datasets
+transformers<5.0
+torchaudio
+soundfile
+torch
+numpy>=1.22
+sounddevice
+wavio
+scipy
+librosa
